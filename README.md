@@ -16,7 +16,7 @@ Aqui são apresentados o passo a passo para se criar um tipo de ciberataque atra
    ![Alt text](./Website.jpg "Optional title")
 6. Depois escolha o método de ataque: Credential Harvester Attack Method
 
-   ![Alt text](./Credential.jpg "Optional title") 
+   ![Alt text](./Credencial.jpg "Optional title") 
 7. Depois escolha a forma de ataque: Site Cloner
 
      ![Alt text](./Clooner.jpg "Optional title")
