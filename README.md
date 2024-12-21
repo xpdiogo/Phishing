@@ -1,5 +1,5 @@
 # Phishing
-Ataque de Pshishing
+Ataque de Phishing
 
 Aqui são apresentados o passo a passo para se criar um tipo de ciberataque através do Kali Linux.
 
